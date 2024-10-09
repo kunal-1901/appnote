@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/appnote/static/css/main.58b0220d.css",
+    "main.js": "/appnote/static/js/main.8513572b.js",
+    "index.html": "/appnote/index.html",
+    "main.58b0220d.css.map": "/appnote/static/css/main.58b0220d.css.map",
+    "main.8513572b.js.map": "/appnote/static/js/main.8513572b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58b0220d.css",
+    "static/js/main.8513572b.js"
+  ]
+}
