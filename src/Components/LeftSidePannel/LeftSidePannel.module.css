@@ -1,0 +1,43 @@
+.leftSidePannel {
+  background: #fff;
+  width: 23vw;
+  height: 98.3vh;
+  display: flex;
+  flex-direction: column; /* Ensure children are stacked vertically */
+  justify-content: space-between; /* Space between title, notes, and button */
+  padding: 1.5%;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
+.notesContainer {
+  overflow-y: auto; 
+  flex-grow: 1;
+}
+
+.createNotesGroup {
+  border-radius: 3.125rem;
+  background:blue;
+  /* width: 21vw; */
+  padding: 4.5%;
+  color: #fff;
+  font-family: Roboto;
+  font-size: 1.6875rem;
+  font-weight: 500;
+  letter-spacing: 0.03375rem;
+  align-self: center; 
+}
+
+.center {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.notesGroupSlected {
+  padding: 5% 3% 3% 3%;
+  width: 21vw;
+  height: 2.375rem;
+  display: flex;
+  justify-self: start;
+}
